@@ -30,6 +30,5 @@ public class dateTime {
         // printing some specified date
         LocalDate date2 = LocalDate.of(1950,1,26);
         System.out.println("the republic day :"+date2);
-
     }
 }
