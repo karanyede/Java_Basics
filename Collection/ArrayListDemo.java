@@ -17,7 +17,6 @@ public class ArrayListDemo {
             System.out.println("Objects Are: "+o);
         }
 
-
         //Restrict using Wrapper Class
         System.out.println("\nNew Arraylist Using Integer Wrapper Class");
         ArrayList<Integer> a2 =  new ArrayList();
