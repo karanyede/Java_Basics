@@ -28,7 +28,7 @@ Contribution
 
 Feel free to fork this repository, suggest improvements, or open issues if you find any bugs or areas for improvement. 🤔
 
-Connect with Me
+### Connect with Me
 
 - https://github.com/karanyede
 - https://linkedin.com/in/karanyede
