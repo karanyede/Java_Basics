@@ -2,7 +2,7 @@
 
 Welcome to my Java learning repository! 👋 Here, I'll be uploading my learning programs and projects as I progress in my Java journey. 📚
 
-About this Repository
+About this Repository 
 
 This repository is a collection of Java programs and projects that I've worked on while learning the language. It's a great way to track my progress, and I hope it can serve as a resource for others who are also learning Java. 🤝
 
