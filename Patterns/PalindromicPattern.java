@@ -4,16 +4,17 @@ public class PalindromicPattern {
     public static void main(String[] args) {
         int n=5;
         for (int i=1;i<=n;i++){
+            //Print Spaces
             for (int j=1;j<=n-i;j++){
                 System.out.print("  ");
             }
+            //Print First Half
             for (int j=i;j>=1;j--){
                 System.out.print(j+" ");
             }
-            for (int j=2;j<=n;j++){
-                if(j<=i) {
-                    System.out.print(j+" ");
-                }
+            //Print Secound Half
+            for (int j=2;j<=i;j++){
+                System.out.print(j+" ");
             }
             System.out.println();
         }
